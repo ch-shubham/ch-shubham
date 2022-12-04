@@ -1,4 +1,5 @@
-### Hi there 👋
+![Shubham Chaudhary Banner](https://github.com/ch-shubham/ch-shubham/blob/main/banner.png?raw=true)
+
 
 <!--
 **ch-shubham/ch-shubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
