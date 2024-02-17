@@ -1,6 +1,6 @@
 ![Shubham Chaudhary Banner](https://github.com/ch-shubham/ch-shubham/blob/main/banner.png?raw=true)
 
-- 🔭 I’m currently working on [Become Polymath](https://becomepolymath.com/)  
+- 🔭 I worked on [Become Polymath](https://becomepolymath.com/)  
   
 
 - 🌱 I’m currently enhancing on Backend.  
