@@ -1,16 +1,19 @@
 ![Shubham Chaudhary Banner](https://github.com/ch-shubham/ch-shubham/blob/main/banner.png?raw=true)
 
-- 🔭 I worked on [Become Polymath]  
-  
+<h1 align="center">Hi there 👋, I’m Shubham Chaudhary</h1>
+<h3 align="center">A passionate Full-Stack Developer</h3>
 
-- 🌱 I’m currently enhancing on Backend.  
-  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ch-shubham&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+- 🔭 I worked on [Become Polymath](https://github.com/ch-shubham/become-polymath-fe)  
+
+- 🌱 I’m currently enhancing my Backend skills.  
 
 - ❓ Ask me about anything related to Full-Stack Development or Software Engineering.  
-  
 
-- ⚡ Fun fact: I love Equity other than development.  
-  
+- ⚡ Fun fact: I love Equity investing as much as I love development.  
 
 <br/>  
 
@@ -75,6 +78,19 @@
 
 <br/>  
 
+
+## GitHub Stats  
+<div align="center">
+
+![ch-shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ch-shubham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ch-shubham&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ch-shubham&theme=tokyonight&hide_border=true)
+
+</div>
+
+<br/>  
 
 ## Connect with me  
 <div align="center">
